@@ -1,8 +1,16 @@
 # DarkComet-RAT-5.3.2
 
+DarkComet RAT(RemoteAdministrationTool) 5.3.1
 
-READ-ME
+pull of the DarkComet RAT. this version works with wine on linux with no problems.
 
+ToDo (windows):
 
-This version of darkcom is nerfed. The version at the moment and
-future versions will be discontinued due to 1007 sue files
+extract zip file
+run DarkComet.exe
+ToDo (linux):
+
+extract zip file
+right click in
+open terminal in DarkComet folder
+enter command 'wine DarkComet.exe'
